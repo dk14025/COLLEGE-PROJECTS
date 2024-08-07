@@ -1,0 +1,2 @@
+file1=open("C:\Users\Deb Pattanayak\OneDrive\Desktop\face_recog_attendance\attfile.csv","r")
+print(file1.name)
